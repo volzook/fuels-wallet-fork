@@ -1,7 +1,7 @@
 [![discord](https://img.shields.io/badge/chat%20on-discord-orange?&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/xfpK4Pe)
 ![twitter](https://img.shields.io/twitter/follow/SwayLang?style=social)
 
-## ⚡️ Fuel Wallet
+## ⚡️Me Fuel Wallet
 
 > **Warning**
 > This project is under active development, some features are not implemented or can present bugs/issues. Do not treat it as a production-ready wallet.
@@ -16,7 +16,7 @@ For latest updates, download the [Fuel Wallet Development](https://next-wallet.f
 
 Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/dev/getting-started/)
 
-## 📗 Table of contents
+## 📗 Table of contents for wallet
 
 - [📗 Documentation](https://wallet.fuel.network/)
 - [📦 Install Wallet](https://wallet.fuel.network/docs/install/)
@@ -25,13 +25,13 @@ Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/
   - [🔗 - Request connection](https://wallet.fuel.network/docs/dev/connecting/)
   - [📒 - List user accounts](https://wallet.fuel.network/docs/dev/accounts/)
   - [✍️ - Signing a message](https://wallet.fuel.network/docs/dev/signing/)
-  - [✍️ - Transfering assets](https://wallet.fuel.network/docs/dev/assets/)
+  - [✍️ - Transfering assets](https://wallet.fuel.network/docs/dev/assets/) #assets
   - [📗 SDK API](https://wallet.fuel.network/docs/dev/reference/)
 - [Contributing](https://wallet.fuel.network/docs/contributing/guide/)
   - [Contribution Guide](https://wallet.fuel.network/docs/contributing/guide/)
   - [Running Locally](https://wallet.fuel.network/docs/contributing/running-locally)
 
-## Features
+## Features App
 
 - [x] Create a new mnemonic phrase account
 - [x] Recover an account using mnemonic phrase
@@ -49,7 +49,7 @@ Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/
   - [x] Add new account
   - [x] Update account name
   - [x] Create account from PrivateKey
-- [x] Applications
+- [x] Applications 
   - [x] List connections
   - [x] Remove connections
 - [x] Settings
