@@ -16,7 +16,7 @@ For latest updates, download the [Fuel Wallet Development](https://next-wallet.f
 
 Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/dev/getting-started/)
 
-## 📗 Table of contents
+## 📗 Table of to the moon contents
 
 - [📗 Documentation](https://wallet.fuel.network/)
 - [📦 Install Wallet](https://wallet.fuel.network/docs/install/)
@@ -31,7 +31,7 @@ Integrate your **DApp** using the [Wallet SDK](https://wallet.fuel.network/docs/
   - [Contribution Guide](https://wallet.fuel.network/docs/contributing/guide/)
   - [Running Locally](https://wallet.fuel.network/docs/contributing/running-locally)
 
-## Features
+## Features Updates
 
 - [x] Create a new mnemonic phrase account
 - [x] Recover an account using mnemonic phrase
